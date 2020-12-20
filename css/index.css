@@ -64,6 +64,10 @@ h3 {
     justify-content: center;
     position: relative;
 }
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14pt;
+}
 .card1 {
     float: inline-left;
     width: 33.3%;
@@ -113,7 +117,7 @@ h3 {
     position: relative;
 }
 .button1 {
-    background-color: #9a04ad;
+    background-color: black;
     border: none;
     box-shadow: 5px 10px #cecece;
     color: white;
@@ -161,7 +165,8 @@ h3 {
 .button2 {
     margin: 0px;
     padding: 10px;
-    background-color: lightblue;
+    background-color: black;
+    color: white;
     vertical-align: middle;
     height: 5vh;
     text-align: center;
